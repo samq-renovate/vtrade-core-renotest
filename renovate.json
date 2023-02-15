@@ -6,7 +6,6 @@
   "hostRules": [
     {
       "matchHost": "https://maven.pkg.github.com/samq-democorp/vtrade-common",
-      "hostType": "maven",
       "username": "samq-ws",
       "encrypted": {
         "token": "wcFMA/xDdHCJBTolAQ//T1Bm0y5agwAIYJSEYT3sf9oBQVf1leFpasm8q/V4cn8+ZMOSczS3WxlnVnlWLKno1OlabvOBPX3Mv9lJX3BVmdDVAoh0/Zwm+ybu4RXK3HdwtWLt6JFDgP0+Kifb/e2UbJrkETQOF9HoAebYJN2M7b+d1qFm9jkSSmDzwvkRyvLhLRIBZLMNKLQgCPn/ZaYGo54ZekLWbB4nemdjOA7uOa3d1y8iGbSLJitwU1NzIQjT+dxLnTTWJSawMhwvxxVcN2gHd6zlTAMTzLRelzZdF5s/oOfV692FYaYYAD9YhYdYN9H+k3NhyZLuMftkc6xpW/s4aP+rvUAcVw/9tVRPNLpqNf9tfdbYm8ioS+OmBY+EBuH+qpKTFYJf4tvjdvkUrufXzNK62vH81yc3aJs7bGDkZusLzQixPO6NqxNLyMP6IzpvGPTvisdNdJ3Hd60qlqZGqj5QDCCQgEPs+NyV/875drAyluf4hmjGpTRqH+0ekUfUgnzj3QKCyna6IWt+r26SiDjA4oKypcQ9AQ1Jaq0DTGTAZbFwbxWfleUjIvvezkbZk4MQUaGP76/Oz0irg+a0MKdrZ3Pq3sDiQjSSuAFFlHAL7FOKUcbsnhn9FRJwtcjpM/YgiYax34sSEUk8pd9O/rZSucPaNGIJRcShqpMHC+I4E2JlLbUc3CCqdujSfAGiR9h8h0qc8fjJpKiPKWiyaZ6Eaft2iovxEVd/Oz2PSoPpt/vTuMUpmMtPfEh9bth/aaFI6WRYiJ/KR+rVqL4xkJSwZthK2FOTQsJdaZBWAY/UsIe3q7KvtHEK+0Q0HrPddJeWb94tHxJ84f1UYDgSz6IyAvcHytSVlWY"
