@@ -49,6 +49,13 @@
 				<jvm.args.number.of.gc.log.files>-Dummy=Dummy</jvm.args.number.of.gc.log.files>
 				<jvm.args.gc.log.file.size>-Dummy=Dummy</jvm.args.gc.log.file.size>
 			</properties>
+			<repositories>
+    				<repository>
+					<id>artifactory</id>
+				        <name>libs-release-local</name>
+				        <url>http://52.52.158.123/artifactory/libs-release-local</url>
+				</repository>
+			</repositories>
 		</profile>
 	</profiles>
 	
