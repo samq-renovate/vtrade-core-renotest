@@ -5,11 +5,11 @@
   ],
   "hostRules": [
     {
-      "matchHost": "https://maven.pkg.github.com/samq-democorp",
+      "matchHost": "http://52.52.158.123/artifactory/libs-release",
       "hostType": "maven",
-      "username": "samq-ws",
+      "username": "deploybot",
       "encrypted": {
-        "token": "wcFMA/xDdHCJBTolAQ//VYb+N0C0WLr1281hrT26hplV1Sic/dSRhi6XoSpL3dI8ArRyCwpuwCTunBTpqjGlFkWsVkkKZcYLIBn5YKhtt2UkoZYchaou+TEpIs0xeF2FJP+e13NSJ149E8g/LmP1AiA/rNZALHZovSwgGCobyblBoi4cAb/te2cP7ABvS2gd0z8RvrUcuJq/yLCTDsjHRnHzTfLhgLmoqCS+OkEeJSHQlo9RnRrQknv22IrinPuHqAuw1dzizcAE2fJQ0bWvkQivyLRHB8IiGBDnAyc93670RiCgqe4nS7HDf3GE5QLzWF6xrZIcNeqeIjbQXGu7gG/wetN2ATrB3rbfH/WkfrrUJGG4qWZnDazuxWTAJFIvVNKeI9BzJm91mANTSfrOFJGSasI+jIcnA8L0BP9b4JmV5zgr4q4q8zAdAjuYZCANARnnZ/pHOQYsyTnzPEZh4CAp7wwrEu2AmmV2lGG7rWlifscHmwm3t8rkkHIixFVgDC9XL94whUIovTwMJr7brdntaQU1jPfujPdGNl0St6QDQG6F7H+oRuRynIS0YtcXWiXuBsz7dI082YizEhatev4tp7XUY2+ewrbAFWFpdyUbYjg4LlVHzKKdhVqXIceDJ7mlP2Y2gIYmJV7CbOvYggva7TMJLroITKbA5PfrCZnxh4CMO/V665iRnqcNTcvSfAFx4+mCrWYF97EpXMDy00IfR5MApNfckjtk8toXNgjbw8cDMP7b4bFHQi9XiIbgnC5hT0b91a6WDtB5uRliVPk5+mDSSu7iVh0NNgVP5ZLP/yeaR2SPj4aD/EbX5DUAQI9p366dkDbGQ8nL/ANOf3df21uZrA/pUi7so+A"
+        "password": "wcFMA/xDdHCJBTolARAAiRngxZMzobslGvgf2ECQsKDfqGXASj83MEyIViD7mpzItNRqLIKl3p91/XXL48/me4bkMzFdy1elKvDirq0HMxOx8C8MBw1YbqQSynmKADfpwlm66Jg6+5tao7niy80s21AJmjoGeGNvYw8Uo/jKW3ybba1mv/Ujc1nusmYyq0k0XXXmNL4ZmarHg+zHFRx2pliku0885OBV7rz4HERLGJBh7xseg8CG/JO3D0rorER+dKIpVWoZQ5C977qoo/+3MhEnHsnqgqqm5u24YmTdJutYUWUYQs2wS1Ywdv3lJxWsIW1bhCzVwX73jgyt3KPfzHOBgS4j8y9fARi46Gv7gRF9LcGPo+KovCQ4gqOUIZN9RON5tELDGdoKIqSw7RVaBWT3WNag/zitW48Q4Vy7ln62Tgp5yypb0x5yzhO8qnWLBxHCV9EMVnDu/gFffX7DPClcy5O3WIQzkYLqpw72vpqV0d8fvP0/Txa8o0nWLnZgab9lgE6a3bQlbufq0Nef+SIllHni3cFoNsCufz3CbAzviRs5mXrZexCk21JCpI3Ay6g0lSiqfuaZQGVvHIq0MEFqLDQnMKxOtV353HPtf+bKA8WHWRyz1bhU0+53z4JSskfdN8sa4XKlar9ml4OFqYxztIXjdUcV4+yNKLTuT5cRXBIzdrQqO6nKWCzD/dHSXQGSjVs+8l6wTDqCdgHfDHpXdy3WjIwPSGGzXzf93LnIkGlSRhm/1VvzyMsxvzLDewl1qWxACPaZ+jvqe0pDEG8+xekozDeB3b05d0fTKO2cjVpJLLOKK1QyoZa/bQ"
       }
     }
   ]
