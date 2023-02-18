@@ -5,7 +5,7 @@
   ],
   "hostRules": [
     {
-      "matchHost": "http://52.52.158.123/artifactory/libs-release-local",
+      "matchHost": "http://52.52.158.123:8082/artifactory/libs-release-local",
       "hostType": "maven",
       "username": "deploybot",
       "encrypted": {
