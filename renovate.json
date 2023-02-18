@@ -1,11 +1,11 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>samq-democorp/whitesource-config:demobase"
+    "config:base"
   ],
   "hostRules": [
     {
-      "matchHost": "https://maven.pkg.github.com/samq-democorp/vtrade-common",
+      "matchHost": "https://maven.pkg.github.com/samq-democorp",
       "hostType": "maven",
       "username": "samq-ws",
       "encrypted": {
