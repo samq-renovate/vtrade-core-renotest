@@ -3,6 +3,10 @@
   "extends": [
     "config:base"
   ],
+  "packageRules": [{
+        "matchPackagePrefixes": ["com.wfs"],
+	    "registryUrls": ["https://maven.pkg.github.com/WFS-Mend/vtrade-common/"]
+  }],
   "hostRules": [
     {
       "matchHost": "https://maven.pkg.github.com/WFS-Mend/vtrade-common",
